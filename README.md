@@ -8,8 +8,8 @@ How can I help you!
 
 - I'm a Computer Engineering student 🧑‍🎓
 - Studying At Birzeit University (BZU) 📙
-- 🔭 I’m currently working on : Python 🔥 
-- 🌱 I’m currently learning : Flask 🔥
+- 🔭 I’m currently working on : Flask Project 🔥 
+- 🌱 I’m currently learning : Python -> Flask 🔥
 - 📕 I'm currently reading a book : Flask Web Development (edition 1)
 - Speaking with : 
    - Arabic (native)
