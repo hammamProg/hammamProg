@@ -1,10 +1,10 @@
 # Hi, My name is Hammam Abo Jamous ^ ^
 How can I help you! 
 
-<p align = "center">
+<!-- <p align = "center">
 
  <img src = "https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width = 500 />
-</p>
+</p> -->
 
 - I'm a Computer Engineering student 🧑‍🎓
 - Studying At Birzeit University (BZU) 📙
