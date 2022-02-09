@@ -1,10 +1,14 @@
-## Hi,
+# Hi, My name is Hammam Abo Jamous ^ ^
+How can I help you! 
 
-## My name is Hammam Abo Jamous, how can I help YOU!
+<p align = "center">
 
-- Computer Engineering student 🧑‍🎓
-- Study At BZU 
-- 🔭 I’m currently working on : Python 🔥
+ <img src = "https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width = 500 />
+</p>
+
+- I'm a Computer Engineering student 🧑‍🎓
+- Studying At Birzeit University (BZU) 📙
+- 🔭 I’m currently working on : Python 🔥 
 - 🌱 I’m currently learning : Flask 🔥
 - 📕 I'm currently reading a book : Flask Web Development (edition 1)
 - Speaking with : 
@@ -12,5 +16,14 @@
    - English (very good)
    - Turkish (Beginner)
 
+---
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=hammamProg&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt = "Hammam Github Stats" width = 400 >
+ <img alt="Hammam streak" src="https://github-readme-streak-stats.herokuapp.com?user=hammamProg&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39">
+  </p>
+  
+
+---
 
 
