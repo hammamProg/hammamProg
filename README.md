@@ -25,10 +25,7 @@ How can I help you!
 <kbd>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=hammamProg&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt = "Hammam Github Stats" width = 400 >
- <br>
- <br>
- <br>
- <br>
+ 
  <img alt="Hammam streak" src="https://github-readme-streak-stats.herokuapp.com?user=hammamProg&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39">
   </p>
 </kbd>
