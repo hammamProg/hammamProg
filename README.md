@@ -15,7 +15,7 @@ How can I help you!
 - Studying At Birzeit University (BZU) 📙
 - 🔭 I’m currently working on : Flask Project 🔥 
 - 🌱 I’m currently learning : Python -> Flask 🔥
-- 🥅 Next Step : become -> AWS certified 
+- 🥅 Next Step : Its a secret
 - Speaking with : 
    - Arabic (native)
    - English (very good)
