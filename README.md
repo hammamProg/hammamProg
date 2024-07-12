@@ -11,8 +11,7 @@ How can I help you!
 </p> -->
 
 
-- I'm a Computer Engineering student 🧑‍🎓
-- Studying At Birzeit University (BZU) 📙
+-    I'm a Computer Engineering fresh graduated from Birzeit University 🧑‍🎓
 - 🔭 I’m currently working on : Flask Project 🔥 
 - 🌱 I’m currently learning : Python -> Flask 🔥
 - 🥅 Next Step : Its a secret
