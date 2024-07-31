@@ -12,7 +12,7 @@ How can I help you!
 
 
 -    I'm a Computer Engineering fresh graduated from Birzeit University 🧑‍🎓
-- 🔭 I’m currently working on : Flask Project 🔥 
+- 🔭 I’m currently working on : Full Stack GYM managment system Project 🔥 
 - 🌱 I’m currently learning : Python -> Flask 🔥
 - 🥅 Next Step : Its a secret
 - Speaking with : 
