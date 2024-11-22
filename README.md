@@ -1,6 +1,6 @@
 # Hi, My name is Hammam Abo Jamous 🇵🇸 ^ ^
 
-<kbd>My current typing speed : 85-95 WPM ⌨️</kbd> Goal of 2022 -> <kbd> +100 </kbd>
+<kbd>My current typing speed : +100 WPM ⌨️</kbd>
 
 How can I help you! 
 
@@ -11,13 +11,14 @@ How can I help you!
 </p> -->
 
 
--    I'm a Computer Engineering fresh graduated from Birzeit University 🧑‍🎓
-- 🔭 I’m currently working on : Full Stack GYM managment system Project 🔥 
-- 🌱 I’m currently learning : Python -> Flask 🔥
+-    I'm a Computer Engineering graduated from Birzeit University 🧑‍🎓
+-    Working on an AI/ML project : Content recommendation system 🔥
+- 🔭 I’m currently working on : Full Stack GYM managment system Project ✔️ ( Done! ) 
+- 🪣 My stack: NextJs ➕ Flask ➕ Posgresql ➕ MailGun ➕ AWS/Azure ➕ ....
 - 🥅 Next Step : Its a secret
 - Speaking with : 
    - Arabic (native)
-   - English (very good)
+   - English (Advanced)
    - Turkish (Beginner)
 
 ---
